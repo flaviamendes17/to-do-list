@@ -16,4 +16,4 @@ Este é um projeto de uma aplicação de To-Do List desenvolvida com foco em fun
 ### Passos para rodar
 1. Clone este repositório para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/todolist.git
+   git clone https://github.com/flaviamendes17/to-do-list.git
