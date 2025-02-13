@@ -17,3 +17,10 @@ Este é um projeto de uma aplicação de To-Do List desenvolvida com foco em fun
 1. Clone este repositório para o seu computador:
    ```bash
    git clone https://github.com/flaviamendes17/to-do-list.git
+
+### Visualização na web: 
+[To do List](https://to-do-list-gamma-self.vercel.app)
+
+
+
+
